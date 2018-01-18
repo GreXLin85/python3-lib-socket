@@ -22,7 +22,7 @@ def Main():
                 time.sleep(1)
                 conn, addr = my_Socket.accept()
                 print("Connection from: " + str(addr))
-        if data == "quit":
+        if data == "q":
             break
         else:
             message = input(" -> ")
