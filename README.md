@@ -1,1 +1,1 @@
-https://b3rkaydem1r.me/python3-socket-kullanimi/
+https://b3rkaydem1r.wordpress.com/2018/03/15/python-socket-kutuphanesi-kullanimi/
